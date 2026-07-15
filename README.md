@@ -3,7 +3,7 @@
 ### Cloud / DevOps Engineer — Azure • AWS • Kubernetes • Terraform
 
 🔭 Currently building a multi-cloud DevOps lab (Terraform, AKS, Jenkins,
-Prometheus/Grafana, GitOps with ArgoCD) — full write-ups on my repos below
+Prometheus/Grafana, GitOps with ArgoCD) - full write-ups on my repos below
 
 🌱 Currently deepening: ArgoCD/GitOps, Azure DevOps Pipelines, HashiCorp Vault
 
