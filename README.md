@@ -10,8 +10,8 @@ Prometheus/Grafana, GitOps with ArgoCD) - full write-ups on my repos below
 🏆 Certified: Microsoft Azure Administrator (AZ-104), Azure Solutions
 Architect Expert (AZ-305)
 
-💼 7+ years in enterprise IT — hybrid identity, virtualization, and now
-cloud infrastructure & platform engineering
+💼 7+ years in enterprise IT - hybrid identity, virtualization,
+and now cloud infrastructure & DevOps engineering
 
 ---
 
